@@ -1,0 +1,11 @@
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.deps.json
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.dll
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csprojResolveAssemblyReference.cache
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.App.xaml.g.cs
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.MainPage.xaml.g.cs
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfoInputs.cache
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.AssemblyInfo.cs
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\bin\Debug\netstandard2.0\App01_ConsultarCEP.pdb
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.dll
+C:\github\XamarinForms2018\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP\obj\Debug\netstandard2.0\App01_ConsultarCEP.pdb
